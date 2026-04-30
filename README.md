@@ -2,7 +2,7 @@
 
 Code for the paper *GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment* (Zewde et al., 2026).
 
-This repository contains the scripts used to collect and curate the **10,217-image GPT-Image-2 Twitter Dataset**. It does **not** contain the dataset itself — the dataset is released separately.
+This repository contains the scripts used to collect and curate the **10,217-image GPT-Image-2 Twitter Dataset**. It does **not** contain the dataset itself — the dataset is released separately and can be accessed from our research page: **<https://www.scam.ai/en/research>**.
 
 ---
 
@@ -125,7 +125,7 @@ If you use this code or the dataset, please cite:
 
 Code is released under the Apache License 2.0 — see [`LICENSE`](LICENSE).
 
-The dataset itself (released separately) is governed by its own license; see the dataset README for details.
+The dataset itself is released separately at <https://www.scam.ai/en/research> and is governed by its own license; see the dataset README for details.
 
 ---
 
